@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>kata-h2-simplest</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/tomascejka/kata-h2-simplest</url>
 
     <properties>
         <h2.version>1.4.194</h2.version>
