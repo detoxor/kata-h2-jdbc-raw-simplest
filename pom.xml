@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cz.tc.learn.h2</groupId>
-    <artifactId>kata-h2-simplest</artifactId>
+    <artifactId>kata-h2-jdbc-raw-simplest</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>kata-h2-simplest</name>
-    <url>https://github.com/tomascejka/kata-h2-simplest</url>
+    <name>kata-h2-jdbc-raw-simplest</name>
+    <url>https://github.com/tomascejka/kata-h2-jdbc-raw-simplest</url>
 
     <properties>
         <h2.version>1.4.194</h2.version>
